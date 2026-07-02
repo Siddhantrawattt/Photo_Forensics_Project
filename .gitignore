@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+.env
+
+# Generated Reports
+*.pdf
+
+# Uploaded Images
+static/uploads/*
+
+# ELA Images
+static/ela/*
+
+# Keep folders
+!static/uploads/.gitkeep
+!static/ela/.gitkeep
