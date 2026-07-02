@@ -1,0 +1,30 @@
+body{
+    background:#1b1b2f;
+    font-family:Arial, sans-serif;
+}
+
+.card{
+    border:none;
+    border-radius:20px;
+    background:#ffffff;
+}
+
+h1{
+    color:#0d6efd;
+    font-weight:bold;
+}
+
+.btn{
+    width:220px;
+}
+
+.container{
+    max-width:900px;
+}
+table{
+    background:white;
+}
+
+th{
+    width:220px;
+}
